@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.error{
+    color: red;
+}
+
+tbody>tr>td, thead>tr>th{
+    text-align: center;
+}
